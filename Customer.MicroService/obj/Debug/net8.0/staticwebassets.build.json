@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "N7udNf9uRyhaV272cXYjJqjOljSwQ+I0XxNImK6Fjt0=",
+  "Source": "Customer.MicroService",
+  "BasePath": "_content/Customer.MicroService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
